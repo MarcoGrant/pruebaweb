@@ -1,0 +1,162 @@
+html, body,menu {margin: 0;padding: 0;}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15,5px; color: #608DA8; font-family: Poppins Regular; 
+}
+
+h1 {
+    font-size: 30px;
+    color: #EECD5F; font-family: Poppins;
+    margin-bottom: 0%;
+}
+
+h2 {
+    font-size: 15.5px;
+    color: #608DA8; font-family: Poppins Regular;
+    margin-bottom: 5%;
+}
+
+h3 {
+    font-size: 12px;
+    color: #608DA8; font-family: Poppins Thin;
+}
+
+h4 {
+    font-size: 15px;
+    color:#C9A84E; font-family: Poppins Regular;
+    margin-bottom: 0%;
+}
+
+h5 {
+    font-size: 30px;
+    color: #C9A84E; font-family: Poppins Regular;
+    margin-left: 35%;
+    margin-right: 5%;
+    margin-bottom: -5%;
+}
+
+h6 {
+    font-size: 15.5px;
+    color: #608DA8;
+    margin-left: 27%;
+    margin-right: 5%;
+}
+
+header img { width: 100%;
+}
+
+.menu_header nav menu {
+    background-color: #EECD5F; 
+}
+
+.menu_header nav menu {
+    color: #A6D8DB; 
+}
+
+.menu_header nav menu a {
+    color: #608DA8; font-family: Poppins;
+}
+
+
+.video {
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-bottom: 0%;
+    margin-top: -2.5%;
+}
+
+.bee {
+    margin-top: -1%;
+    margin-left: 4.5%;
+}
+
+.menu_header h3 {
+    display: inline-block;
+    padding: 20px;
+    margin: 0;
+}
+
+.contenido {
+    margin: 0px 50px;
+}
+
+.cajas_servicios{
+    margin-top: -35px;
+}
+
+.cajas_servicios section {
+    display: block;
+}
+
+.cajas_servicios section {
+    display: inline-block;
+    width: 32%;
+}
+
+.cajas_servicios section h2 {
+    text-align: center;
+}
+
+.cajas_servicios section p {
+    text-align: center;
+}
+
+.cajas_servicios section img {
+    margin-left: 20%;
+    margin-right: 10%;
+    margin-bottom: 0%;
+    left: -43px;
+    position: relative;
+}
+
+.hovermenu {
+    background-color: #E6D2C8;
+}
+
+.formulario_contacto_seccion {
+    margin: 20px;
+    width: 100%;
+}
+
+.formulario_sex {
+    margin: 20px;
+    width: 100%;
+}
+
+.fanzine {
+    margin-left: 50%;
+    margin-top: -13.5%;
+}
+
+.ilustraciones {
+    padding: 15px;
+    bottom: -5px;
+}
+
+.portafolio {
+    padding: 2px;
+    bottom: 70px;
+    margin-top: 1%;
+}
+
+.portafolio2 {
+    padding: 2px;
+    margin-top: 1%;
+}
+
+footer{
+    background-color: #E6D2C8; 
+    position: absolute;
+    bottom: -85%; width: 100%; left: 0%; 
+}
+
+footer h3 {
+    display: inline-block;
+    padding: 20px;
+    margin: 0;
+}
+
+
+
+
